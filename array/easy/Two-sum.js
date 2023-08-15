@@ -26,3 +26,9 @@ function twoSum(nums, target) {
 }
 
 twoSum(nums, target);
+
+
+// complaxity
+
+// time = O(n)
+// space = O(n)
